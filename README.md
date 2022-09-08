@@ -2,5 +2,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-soares-38308b217/)
 
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](thiago.98soares6680@hotmail.com)
+![Thiago Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagSoares_icons=true&theme=radical)
 
