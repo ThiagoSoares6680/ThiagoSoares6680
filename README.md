@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-soares-38308b217/)
 
 ![ThiagoSoares6680 GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSoares6680&show_icons=true&theme=dracula)<br>
-[![ThiagoSoares6680 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSoares6680&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSoares6680&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 
